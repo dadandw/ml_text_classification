@@ -1,7 +1,7 @@
 # submission_dicoding_ml_text_classficitaion
 
-###Nama : Dadan Dahman Wahidi
-###Proyek Pertama : Membuat Model NLP dengan TensorFlow
+### Nama : Dadan Dahman Wahidi
+### Proyek Pertama : Membuat Model NLP dengan TensorFlow
 
 Keterangan Proyek Akhir :
 
@@ -17,5 +17,5 @@ Keterangan Proyek Akhir :
 * Program dikerjakan pada Google Colaboratory.
 * Menggunakan bahasa pemrograman Python.
 
-Dicoding Academy dicoding.com
-Medium howdysysinfo.medium.com
+**Dicoding Academy dicoding.com
+**Medium howdysysinfo.medium.com
