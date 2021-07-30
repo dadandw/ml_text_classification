@@ -1,4 +1,4 @@
-# submission_dicoding_ml_text_classficitaion
+# ml_text_classification
 
 ### Nama : Dadan Dahman Wahidi
 ### Proyek Pertama : Membuat Model NLP dengan TensorFlow
